@@ -1,0 +1,17 @@
+Supercell will not allow a repository to have their game assets uploaded online, so you have to do the work of getting them and uncompressing them unfortunately.
+Here's the needed uncompressed files in this directory:
+
+avatar_stats.csv
+characters.csv
+end_game_milestones.csv
+exp_levels.csv
+regions.csv
+resources.csv
+skins.csv
+spells.csv
+texts.csv
+variables.csv
+
+to decompress these files, you can use a public tool such as this one: https://github.com/PhoenixFire6934/SC-tool
+
+if you're unable to get them, dm me on discord or telegram @risporce, and i'll be happy to give them to you

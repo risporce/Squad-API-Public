@@ -11,7 +11,11 @@ For future users, please note that if you encounter this repository after the se
 1. 
 `git clone https://github.com/risporce/Squad-API-Public.git`
 
-2. 
+2.
+
+Add the necessary files in /Files/Assets/ . Please read the assets.txt file
+
+3. 
 
 `python3 main.py`
 
@@ -52,6 +56,10 @@ Get the current game status, returns an integer:
 10 = Game currently in maintenance
 
 http://localhost:30000/status
+
+
+### Enjoy
+This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see: [Supercell's Fan Content Policy](https://supercell.com/en/fan-content-policy/) and also [Supercell's Term of Service](https://supercell.com/en/terms-of-service/)
 
 
 
