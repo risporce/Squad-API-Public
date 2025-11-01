@@ -1,0 +1,7 @@
+Flask==3.1.0
+Flask_Caching==2.3.0
+Flask_Cors==5.0.0
+flask[async]
+PyJWT==2.10.1
+PyNaCl==1.5.0
+gunicorn

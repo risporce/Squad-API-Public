@@ -1,0 +1,45 @@
+{
+    "ClientHelloMessage": {
+        "Protocol": 1,
+        "KeyVersion": 57,
+        "Major": 13,
+        "Build": 807,
+        "Minor": 7,
+        "ContentHash": "a0bcd279dbf934648bca39d48cd609e65623a9d9",
+        "DeviceType": 1,
+        "AppStore": 1
+    },
+    "LoginMessage": {
+        "AccountHighId": 7,
+        "StatusAccountHighId": 13,
+        "AccountLowId": 2805232,
+        "StatusAccountLowId": 3160078,
+        "PassToken": "z4bpw92t9gzafa46x48sm6r9g4nkxnebfwxdxdcc",
+        "StatusPassToken": "8mxzcxy6ffzj2mfj7kbhr3z6gdzfra4y83ss9847",
+        "ClientMajor": 13,
+        "ClientBuild": 807,
+        "ClientMinor": 7,
+        "ResourceSha": "a0bcd279dbf934648bca39d48cd609e65623a9d9",
+        "Device": "iPad9.1",
+        "Locales_csvID": 400100001,
+        "PreferedDeviceLanguage": "en-US",
+        "IMEI": "00000000-0000-0000-0000-000000000000",
+        "OSVersion": "18.2",
+        "isAndroid": false,
+        "isAdvertisingEnabled": true,
+        "AppleIFV": "97AFD440-1537-47F2-A2D4-0ACCC1C78BE1",
+        "RndKey": 16807,
+        "AppStore": 1,
+        "ClientVersion": "13.806.1",
+        "DeviceName": "iPad",
+        "SupercellIdToken": "",
+        "StringDefault": "",
+        "IntDefault": 0,
+        "BooleanDefault": false
+    },
+    "Server": {
+        "server": "game.squadbustersgame.com",
+        "port": 9339,
+        "ServerPublicKey": "F3EF2947524B5E4D8F92F9A69328517D6383388B6C72F786C2749BBE1CD9E07D"
+    }
+}
